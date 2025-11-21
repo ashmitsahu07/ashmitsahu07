@@ -1,4 +1,4 @@
-#💫 About Me:<br>
+<h1>💫 About Me:</h1><br>
 🏫 Undergraduate at RV University, Bengaluru <br>📈 passionate about data science , <br>💻 skilled in C, HTML, CSS, JavaScript, Linux & digital logic , <br>🌍 curious about solving real-world problems , <br>🚀 always up for tech, coding projects & open-source collaboration , <br>🤖 and aiming to grow as a future data scientist !
 
 
